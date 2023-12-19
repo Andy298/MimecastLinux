@@ -1,0 +1,51 @@
+2023-12-15 12:42:18,135 INFO: Submitting and validating email, password, app id, app key, access key and secret key credentials.
+2023-12-15 12:42:18,135 INFO: URL: https://api.mimecast.com/api/login/discover-authentication Request ID: 9abc5358-a08b-4f59-85fa-4cbea0ec0f22
+2023-12-15 12:42:18,377 INFO: URL: https://eu-api.mimecast.com/api/audit/get-categories Request ID: 9e8b0a30-83b9-4ea0-b848-4ca487702fe4
+2023-12-15 12:42:19,318 INFO: Fetching Mimecast Audit categories.
+2023-12-15 12:42:19,319 INFO: URL: https://api.mimecast.com/api/login/discover-authentication Request ID: 5086e76e-6e38-4da8-9fd1-bb7ce41c33da
+2023-12-15 12:42:19,432 INFO: URL: https://eu-api.mimecast.com/api/audit/get-categories Request ID: 9a5dfca9-0d5a-458d-8918-61b86533cb7f
+2023-12-15 12:43:21,100 INFO: Updating and validating email, password, app id, app key, access key and secret key credentials.
+2023-12-15 12:43:21,101 INFO: URL: https://api.mimecast.com/api/login/discover-authentication Request ID: 528f90ef-f1ed-4cc4-ac78-61cd35ff00bf
+2023-12-15 12:43:21,221 INFO: URL: https://eu-api.mimecast.com/api/audit/get-categories Request ID: 6121d7c9-db6c-4dd3-b0e1-d2e8dc578470
+2023-12-15 12:43:22,058 INFO: Fetching Mimecast Audit categories.
+2023-12-15 12:43:22,058 INFO: URL: https://api.mimecast.com/api/login/discover-authentication Request ID: 44789fa2-0811-4177-b9c3-dd74c77f7f90
+2023-12-15 12:43:22,192 INFO: URL: https://eu-api.mimecast.com/api/audit/get-categories Request ID: 3e17a140-8c03-489a-885a-357ae0b6ed72
+2023-12-15 13:16:39,185 INFO: Submitting or updating actions.
+2023-12-15 15:48:34,268 INFO: Updating and validating email, password, app id, app key, access key and secret key credentials.
+2023-12-15 15:48:34,268 INFO: URL: https://api.mimecast.com/api/login/discover-authentication Request ID: deb5ef3a-1151-4d8b-b5e5-51788474ff87
+2023-12-15 15:48:34,679 INFO: URL: https://eu-api.mimecast.com/api/audit/get-categories Request ID: f4bc1fdb-d266-4365-88aa-ec6203d9542d
+2023-12-15 15:48:35,534 INFO: Fetching Mimecast Audit categories.
+2023-12-15 15:48:35,535 INFO: URL: https://api.mimecast.com/api/login/discover-authentication Request ID: 563fd20f-cd6e-4bbd-a277-195f7bf8c70b
+2023-12-15 15:48:35,925 INFO: URL: https://eu-api.mimecast.com/api/audit/get-categories Request ID: c47a48d8-1313-4685-870c-b63c6fb54ace
+2023-12-15 15:48:49,992 INFO: Stopped log fetching.
+2023-12-15 15:48:57,960 INFO: Submitting or updating actions.
+2023-12-15 15:49:00,884 INFO: Started log fetching.
+2023-12-18 10:06:12,871 INFO: Fetching Mimecast Audit categories.
+2023-12-18 10:06:12,874 INFO: URL: https://api.mimecast.com/api/login/discover-authentication Request ID: d7a00a30-1df7-425c-b5a1-b9b075d5dd68
+2023-12-18 10:06:13,232 INFO: URL: https://eu-api.mimecast.com/api/audit/get-categories Request ID: 977fbc1e-8726-4ac4-a7cb-dbb5edeaf9b8
+2023-12-18 10:06:27,293 INFO: Fetching Mimecast Audit categories.
+2023-12-18 10:06:27,296 INFO: URL: https://api.mimecast.com/api/login/discover-authentication Request ID: 3ed69f2d-24eb-4140-b44d-e4149455cc36
+2023-12-18 10:06:27,449 INFO: URL: https://eu-api.mimecast.com/api/audit/get-categories Request ID: b67593f2-3e60-4893-a62d-4534be973a89
+2023-12-18 10:06:33,672 INFO: Updating and validating email, password, app id, app key, access key and secret key credentials.
+2023-12-18 10:06:33,673 INFO: URL: https://api.mimecast.com/api/login/discover-authentication Request ID: 29926df2-821e-4208-9e11-977acfdedcbc
+2023-12-18 10:06:33,804 INFO: URL: https://eu-api.mimecast.com/api/audit/get-categories Request ID: 6a0a3988-4f5f-4c0e-96ac-a34cba365705
+2023-12-18 10:06:34,606 INFO: Fetching Mimecast Audit categories.
+2023-12-18 10:06:34,607 INFO: URL: https://api.mimecast.com/api/login/discover-authentication Request ID: 27bb623b-b247-4ea5-95de-9c9e51142644
+2023-12-18 10:06:34,738 INFO: URL: https://eu-api.mimecast.com/api/audit/get-categories Request ID: 290e072e-6df3-4366-83ad-49086c4e0f52
+2023-12-18 10:07:02,237 INFO: Submitting or updating actions.
+2023-12-18 10:28:22,366 INFO: Stopped log fetching.
+2023-12-18 10:28:26,673 INFO: Started log fetching.
+2023-12-18 12:44:44,052 INFO: Submitting or updating actions.
+2023-12-18 12:49:19,102 INFO: Submitting or updating actions.
+2023-12-18 12:49:59,453 INFO: Stopped log fetching.
+2023-12-18 12:50:02,546 INFO: Started log fetching.
+2023-12-18 12:56:26,179 INFO: Submitting or updating actions.
+2023-12-18 12:56:46,821 INFO: Stopped log fetching.
+2023-12-18 12:56:50,092 INFO: Started log fetching.
+2023-12-18 13:52:26,087 INFO: Submitting or updating actions.
+2023-12-18 13:52:30,322 INFO: Stopped log fetching.
+2023-12-18 14:14:30,338 INFO: Started log fetching.
+2023-12-18 14:15:25,959 INFO: Stopped log fetching.
+2023-12-18 14:15:30,634 INFO: Submitting or updating actions.
+2023-12-18 14:15:35,105 INFO: Started log fetching.
+2023-12-18 16:01:11,574 INFO: Submitting or updating actions.
